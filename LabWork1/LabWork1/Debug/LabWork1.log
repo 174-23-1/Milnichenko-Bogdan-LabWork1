@@ -1,0 +1,6 @@
+﻿  LabWork1.cpp
+C:\Users\User\source\repos\LabWork1\LabWork1\LabWork1.cpp(5,25): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\LabWork1\LabWork1\LabWork1.cpp(5,35): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\LabWork1\LabWork1\LabWork1.cpp(9,58): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\LabWork1\LabWork1\LabWork1.cpp(10,33): warning C4305: =: усечение из "double" в "float"
+  LabWork1.vcxproj -> C:\Users\User\source\repos\LabWork1\Debug\LabWork1.exe
